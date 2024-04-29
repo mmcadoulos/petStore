@@ -37,7 +37,7 @@ public class PetController {
 
         return "<h1>My Pet</h1>" +
                 "<h3>" + myPet.getName() + "</h3>" +
-                "<h3> the </h3>" +
+//                "<h3> the </h3>" +
                 "<h3>"+ myPet.getSpecies()+"</h3>";
     }
 
